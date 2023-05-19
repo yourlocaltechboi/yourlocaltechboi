@@ -6,7 +6,7 @@
 
 🌐 [https://www.anden.me](https://www.anden.me)
 
-📫 [reachout@yltboi.me](mailto:reachout@yltboi.me)
+📫 [hello@anden.me](mailto:hello@anden.me)
 
 <!---
 yourlocaltechboi/yourlocaltechboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
