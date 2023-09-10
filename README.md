@@ -1,14 +1,14 @@
-👋 Hi, I’m Anden Wieseler!
+# yoski, broski!
+**my name is anden. i build software, or something like that.**
 
-👀 I’m interested in NodeJS, frontend web programming using barebones language tools, and basic server-side web progrmming
+want to know all of my deets?: https://www.anden.me
 
-🌱 I’m currently learning more server-side frameworks and libraries
-
-🌐 [https://www.anden.me](https://www.anden.me)
-
-📫 [hello@anden.me](mailto:hello@anden.me)
-
-<!---
-yourlocaltechboi/yourlocaltechboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### skills:
+- JavaScript
+- Node
+- Python
+- C
+- C++
+- HTML
+- CSS
+- (limited) Swift
